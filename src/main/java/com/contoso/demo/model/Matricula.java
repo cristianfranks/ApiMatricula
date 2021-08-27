@@ -1,10 +1,7 @@
 package com.contoso.demo.model;
 
-import java.util.Date;
-import java.math.BigDecimal;
 import lombok.*;
 import javax.persistence.*;
-import org.springframework.format.annotation.DateTimeFormat;
 import java.util.List;
 
 @Getter
